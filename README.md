@@ -27,7 +27,7 @@ Como usar?
 
 
 - Una vez abierto el archivo se vera algo como esto
-![example](https://imgur.com/a/S57zSwg)
+https://imgur.com/a/S57zSwg
 
 - Para adaptar los macros a tu PC solo selecciona crear cfg y sigue los pasos que salen ahi
 
